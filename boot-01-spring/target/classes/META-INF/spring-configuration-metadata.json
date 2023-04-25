@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.atguigu.boot.bean.Person",
+      "sourceType": "com.atguigu.boot.bean.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.cat",
+      "type": "com.atguigu.boot.bean.Cat",
+      "sourceType": "com.atguigu.boot.bean.Person"
+    },
+    {
+      "name": "person.hobby",
+      "type": "java.lang.String[]",
+      "sourceType": "com.atguigu.boot.bean.Person"
+    },
+    {
+      "name": "person.price",
+      "type": "java.util.List<java.lang.Integer>",
+      "sourceType": "com.atguigu.boot.bean.Person"
+    },
+    {
+      "name": "person.score",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.boot.bean.Person"
+    },
+    {
+      "name": "person.user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.boot.bean.Person"
+    }
+  ],
+  "hints": []
+}
